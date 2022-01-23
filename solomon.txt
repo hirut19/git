@@ -1,5 +1,11 @@
 1.fhljkwjfkej
 2djiwlfuiuf
 3hiluauf
+<<<<<<< HEAD
 4jhfrdr
 jh
+=======
+fhhghfgr
+jhjfds
+dfgcgfjjjf
+>>>>>>> b8ddf3f321b57a4087e5616eccc29d17895109c7
